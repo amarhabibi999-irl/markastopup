@@ -1,0 +1,19 @@
+[
+  { "id": "mobile-legends", "name": "Mobile Legends", "publisher": "Moonton", "image": "https://www.google.com/s2/favicons?domain=mobilelegends.com&sz=128", "tag": "trending" },
+  { "id": "free-fire", "name": "Free Fire", "publisher": "Garena", "image": "https://www.google.com/s2/favicons?domain=ff.garena.com&sz=128", "tag": "trending" },
+  { "id": "pubg-mobile", "name": "PUBG Mobile", "publisher": "Tencent Games", "image": "https://www.google.com/s2/favicons?domain=pubgmobile.com&sz=128", "tag": "trending" },
+  { "id": "valorant", "name": "Valorant", "publisher": "Riot Games", "image": "https://www.google.com/s2/favicons?domain=playvalorant.com&sz=128", "tag": "trending" },
+  { "id": "genshin-impact", "name": "Genshin Impact", "publisher": "HoYoverse", "image": "https://www.google.com/s2/favicons?domain=genshin.hoyoverse.com&sz=128", "tag": "trending" },
+  { "id": "cod-mobile", "name": "COD Mobile", "publisher": "Activision", "image": "https://www.google.com/s2/favicons?domain=callofduty.com&sz=128", "tag": "trending" },
+  
+  { "id": "honkai-star-rail", "name": "Honkai Star Rail", "publisher": "HoYoverse", "image": "https://www.google.com/s2/favicons?domain=honkaistarrail.hoyoverse.com&sz=128", "tag": "baru" },
+  { "id": "zenless-zone-zero", "name": "Zenless Zone Zero", "publisher": "HoYoverse", "image": "https://www.google.com/s2/favicons?domain=zenless.hoyoverse.com&sz=128", "tag": "baru" },
+  { "id": "honor-of-kings", "name": "Honor of Kings", "publisher": "Level Infinite", "image": "https://www.google.com/s2/favicons?domain=honorofkings.com&sz=128", "tag": "baru" },
+  
+  { "id": "aov", "name": "Arena of Valor", "publisher": "Garena", "image": "https://www.google.com/s2/favicons?domain=aov.garena.com&sz=128", "tag": "lainnya" },
+  { "id": "roblox", "name": "Roblox", "publisher": "Roblox Corp", "image": "https://www.google.com/s2/favicons?domain=roblox.com&sz=128", "tag": "lainnya" },
+  { "id": "point-blank", "name": "Point Blank", "publisher": "Zepetto", "image": "https://www.google.com/s2/favicons?domain=pointblank.com&sz=128", "tag": "lainnya" },
+  { "id": "steam-wallet", "name": "Steam Wallet", "publisher": "Valve", "image": "https://www.google.com/s2/favicons?domain=store.steampowered.com&sz=128", "tag": "lainnya" },
+  { "id": "google-play", "name": "Google Play", "publisher": "Google", "image": "https://www.google.com/s2/favicons?domain=play.google.com&sz=128", "tag": "lainnya" },
+  { "id": "higgs-domino", "name": "Higgs Domino", "publisher": "Higgs Games", "image": "https://www.google.com/s2/favicons?domain=higgsgames.com&sz=128", "tag": "lainnya" }
+]

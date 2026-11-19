@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ORD-ANXH6NPGAP",
+    "productId": "ml-86",
+    "productName": "86 Diamonds",
+    "amount": 20000,
+    "customerName": "Bagol",
+    "customerContact": "08545454545",
+    "target": "48700377",
+    "zoneId": "2076",
+    "status": "COMPLETED",
+    "paymentId": "MOCK-ORD-ANXH6NPGAP",
+    "qrString": "00020101021226MOCK-ORD-ANXH6NPGAP0000000000000000000000000005204000053033605802ID5910MARKASTOPUP6007JAKARTA5405200006304ABCD",
+    "paymentExpiresAt": "2026-11-13T07:07:03.205Z",
+    "createdAt": "2026-11-13T06:52:03.205Z",
+    "paidAt": "2026-11-13T06:52:10.304Z",
+    "fulfilledAt": "2026-11-13T06:52:12.313Z"
+  }
+]

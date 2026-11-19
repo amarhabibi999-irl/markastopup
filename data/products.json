@@ -1,0 +1,184 @@
+[
+  {
+    "id": "ml-86",
+    "gameId": "mobile-legends",
+    "name": "86 Diamonds",
+    "price": 18900,
+    "supplierSku": "ML-86",
+    "badge": "Populer",
+    "basePrice": 18000
+  },
+  {
+    "id": "ml-172",
+    "gameId": "mobile-legends",
+    "name": "172 Diamonds",
+    "price": 37800,
+    "supplierSku": "ML-172",
+    "basePrice": 36000
+  },
+  {
+    "id": "ff-70",
+    "gameId": "free-fire",
+    "name": "70 Diamonds",
+    "price": 9450,
+    "supplierSku": "FF-70",
+    "badge": "Murah",
+    "basePrice": 9000
+  },
+  {
+    "id": "ff-140",
+    "gameId": "free-fire",
+    "name": "140 Diamonds",
+    "price": 20000,
+    "supplierSku": "FF-140"
+  },
+  {
+    "id": "pubg-60",
+    "gameId": "pubg-mobile",
+    "name": "60 UC",
+    "price": 15000,
+    "supplierSku": "PUBG-60"
+  },
+  {
+    "id": "pubg-325",
+    "gameId": "pubg-mobile",
+    "name": "325 UC",
+    "price": 75000,
+    "supplierSku": "PUBG-325"
+  },
+  {
+    "id": "val-420",
+    "gameId": "valorant",
+    "name": "420 Points",
+    "price": 32550,
+    "supplierSku": "VAL-420",
+    "basePrice": 31000
+  },
+  {
+    "id": "val-700",
+    "gameId": "valorant",
+    "name": "700 Points",
+    "price": 55000,
+    "supplierSku": "VAL-700"
+  },
+  {
+    "id": "gi-60",
+    "gameId": "genshin-impact",
+    "name": "60 Crystals",
+    "price": 14700,
+    "supplierSku": "GI-60",
+    "basePrice": 14000
+  },
+  {
+    "id": "gi-300",
+    "gameId": "genshin-impact",
+    "name": "300 Crystals",
+    "price": 75000,
+    "supplierSku": "GI-300"
+  },
+  {
+    "id": "cod-80",
+    "gameId": "cod-mobile",
+    "name": "80 CP",
+    "price": 15000,
+    "supplierSku": "COD-80"
+  },
+  {
+    "id": "cod-420",
+    "gameId": "cod-mobile",
+    "name": "420 CP",
+    "price": 70000,
+    "supplierSku": "COD-420"
+  },
+  {
+    "id": "hok-80",
+    "gameId": "honor-of-kings",
+    "name": "80 Tokens",
+    "price": 15000,
+    "supplierSku": "HOK-80"
+  },
+  {
+    "id": "hok-240",
+    "gameId": "honor-of-kings",
+    "name": "240 Tokens",
+    "price": 40000,
+    "supplierSku": "HOK-240"
+  },
+  {
+    "id": "aov-70",
+    "gameId": "aov",
+    "name": "70 Vouchers",
+    "price": 15000,
+    "supplierSku": "AOV-70"
+  },
+  {
+    "id": "rbx-80",
+    "gameId": "roblox",
+    "name": "80 Robux",
+    "price": 15000,
+    "supplierSku": "RBX-80"
+  },
+  {
+    "id": "rbx-400",
+    "gameId": "roblox",
+    "name": "400 Robux",
+    "price": 65000,
+    "supplierSku": "RBX-400"
+  },
+  {
+    "id": "hsr-60",
+    "gameId": "honkai-star-rail",
+    "name": "60 Oneiric Shard",
+    "price": 15000,
+    "supplierSku": "HSR-60"
+  },
+  {
+    "id": "zzz-60",
+    "gameId": "zenless-zone-zero",
+    "name": "60 Monochrome",
+    "price": 15000,
+    "supplierSku": "ZZZ-60"
+  },
+  {
+    "id": "pb-1200",
+    "gameId": "point-blank",
+    "name": "1200 PB Cash",
+    "price": 10000,
+    "supplierSku": "PB-1200"
+  },
+  {
+    "id": "steam-12k",
+    "gameId": "steam-wallet",
+    "name": "Steam Wallet 12K",
+    "price": 15000,
+    "supplierSku": "STEAM-12"
+  },
+  {
+    "id": "steam-45k",
+    "gameId": "steam-wallet",
+    "name": "Steam Wallet 45K",
+    "price": 50000,
+    "supplierSku": "STEAM-45"
+  },
+  {
+    "id": "gp-20k",
+    "gameId": "google-play",
+    "name": "Google Play 20K",
+    "price": 22000,
+    "supplierSku": "GP-20"
+  },
+  {
+    "id": "higgs-100m",
+    "gameId": "higgs-domino",
+    "name": "100M Koin",
+    "price": 15000,
+    "supplierSku": "HIGGS-100"
+  },
+  {
+    "id": "higgs-300m",
+    "gameId": "higgs-domino",
+    "name": "300M Koin",
+    "price": 40000,
+    "supplierSku": "HIGGS-300"
+  }
+]
